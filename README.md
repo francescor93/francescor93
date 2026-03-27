@@ -18,6 +18,40 @@ Thanks for visiting!
 </div>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1417 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+🌆 Daytime                14050 commits       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌃 Evening                30993 commits       █████████████░░░░░░░░░░░░   53.13 % 
+🌙 Night                  11872 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   7324 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Tuesday                  8377 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                8052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 7565 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Friday                   6852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 11210 commits       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Sunday                   8952 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+TypeScript               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.22 % 
+PHP                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+HTML                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text

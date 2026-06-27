@@ -18,40 +18,6 @@ Thanks for visiting!
 </div>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1527 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-🌆 Daytime                14403 commits       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌃 Evening                32562 commits       █████████████░░░░░░░░░░░░   53.82 % 
-🌙 Night                  12007 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   6936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  8685 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                8701 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 8078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Friday                   7130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Saturday                 11755 commits       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Sunday                   9214 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-TypeScript               57 mins             █████████████████░░░░░░░░   66.34 % 
-HTML                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text

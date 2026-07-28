@@ -18,6 +18,8 @@ Thanks for visiting!
 </div>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -45,11 +47,17 @@ Sunday                   9388 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         █████████████████░░░░░░░░   68.13 % 
-HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               2 hrs 1 min         ███████████████░░░░░░░░░░   58.92 % 
+HTML                     1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.79 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 

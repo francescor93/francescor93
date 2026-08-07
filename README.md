@@ -18,6 +18,45 @@ Thanks for visiting!
 </div>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1563 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌆 Daytime                14829 commits       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+🌃 Evening                33296 commits       █████████████░░░░░░░░░░░░   53.71 % 
+🌙 Night                  12307 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   7378 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Tuesday                  8874 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Wednesday                8843 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Thursday                 8190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Friday                   7285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 12010 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Sunday                   9415 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+HTML                     7 mins              ███████████████░░░░░░░░░░   61.29 % 
+TypeScript               4 mins              ██████████░░░░░░░░░░░░░░░   38.71 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text

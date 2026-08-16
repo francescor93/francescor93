@@ -47,9 +47,8 @@ Sunday                   9549 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JSON                     5 mins              ███████████████░░░░░░░░░░   58.88 % 
-Markdown                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-PHP                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON                     5 mins              ██████████████████░░░░░░░   71.03 % 
+Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   28.97 % 
 ```
 
 🤖 **AI Coding This Week** 

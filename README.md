@@ -47,7 +47,7 @@ Sunday                   9549 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

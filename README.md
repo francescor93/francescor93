@@ -20,6 +20,42 @@ Thanks for visiting!
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1597 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌆 Daytime                15205 commits       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+🌃 Evening                34022 commits       █████████████░░░░░░░░░░░░   53.64 % 
+🌙 Night                  12604 commits       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   7780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  9063 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                8977 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Thursday                 8316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   7454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 12231 commits       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Sunday                   9607 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text

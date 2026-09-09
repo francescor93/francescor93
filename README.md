@@ -47,8 +47,11 @@ Sunday                   9607 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-XML                      14 mins             █████████████████████████   99.60 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+XML                      19 mins             ███████████████████░░░░░░   77.79 % 
+HTML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 

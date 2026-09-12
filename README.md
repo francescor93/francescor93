@@ -18,7 +18,7 @@ Thanks for visiting!
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2049%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,17 +47,33 @@ Sunday                   9616 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-XML                      19 mins             ████████░░░░░░░░░░░░░░░░░   31.77 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-HTML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+TypeScript               36 mins             █████████░░░░░░░░░░░░░░░░   36.51 % 
+JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+XML                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+CSV                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 mins (15.88%)
+
+✍️ 0 lines written by AI, 4,554 lines written by hand (0.0% AI-written)
+
+🔤 35,419 Input Tokens, 1,513 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 248 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 

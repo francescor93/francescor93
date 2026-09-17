@@ -20,6 +20,62 @@ Thanks for visiting!
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1602 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌆 Daytime                15234 commits       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+🌃 Evening                34058 commits       █████████████░░░░░░░░░░░░   53.62 % 
+🌙 Night                  12619 commits       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   7795 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  9069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                8993 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 8325 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   7465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 12250 commits       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Sunday                   9616 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+TypeScript               1 hr 11 mins        ████████████████░░░░░░░░░   65.87 % 
+JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 mins (16.37%)
+
+✍️ 0 lines written by AI, 4,621 lines written by hand (0.0% AI-written)
+
+🔤 35,419 Input Tokens, 1,513 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 220 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text

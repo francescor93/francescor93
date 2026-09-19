@@ -47,30 +47,29 @@ Sunday                   9616 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ███████████████████████░░   90.38 % 
-CSV                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               39 mins             ████████████████████████░   97.20 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (22.46%)
+⏱ AI Coding Time: 2 mins (4.98%)
 
-✍️ 0 lines written by AI, 87 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 68 lines written by hand (0.0% AI-written)
 
-🔤 35,419 Input Tokens, 1,513 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.13 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
+📝 Concise Prompter — average 193 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```

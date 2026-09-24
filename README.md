@@ -18,21 +18,21 @@ Thanks for visiting!
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%201%20min-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1601 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-🌆 Daytime                15215 commits       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+🌞 Morning                1602 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌆 Daytime                15216 commits       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
 🌃 Evening                34028 commits       █████████████░░░░░░░░░░░░   53.62 % 
 🌙 Night                  12619 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   7796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Tuesday                  9053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Monday                   7797 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Tuesday                  9054 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Wednesday                8988 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 Thursday                 8310 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Friday                   7455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
@@ -47,17 +47,33 @@ Sunday                   9616 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   51 mins             █████████░░░░░░░░░░░░░░░░   37.11 % 
-PHP                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Python                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+PHP                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (4.22%)
+
+✍️ 0 lines written by AI, 7,003 lines written by hand (0.0% AI-written)
+
+🔤 21,325 Input Tokens, 433 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 

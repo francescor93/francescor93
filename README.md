@@ -47,19 +47,19 @@ Sunday                   9616 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-PHP                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+TypeScript               3 hrs 43 mins       █████████████░░░░░░░░░░░░   53.13 % 
+Python                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+JSON                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+PHP                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (4.22%)
+⏱ AI Coding Time: 10 mins (2.48%)
 
-✍️ 0 lines written by AI, 7,003 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,573 lines written by hand (0.0% AI-written)
 
 🔤 21,325 Input Tokens, 433 Output Tokens
 

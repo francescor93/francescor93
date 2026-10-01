@@ -47,33 +47,17 @@ Sunday                   9616 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               4 hrs 11 mins       ███████████████████░░░░░░   75.88 % 
-JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               3 hrs 15 mins       █████████████████████░░░░   84.35 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (3.14%)
-
-✍️ 0 lines written by AI, 4,825 lines written by hand (0.0% AI-written)
-
-🔤 21,325 Input Tokens, 433 Output Tokens
-
-💵 $0.07 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 

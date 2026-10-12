@@ -13,6 +13,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BAR_STYLE: "svg"
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Stats updated"
           SHOW_UPDATED_DATE: "False"
@@ -29,3 +30,5 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"

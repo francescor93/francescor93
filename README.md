@@ -13,57 +13,25 @@ Below are some stats for you curious guys; also check out [my website](https://w
 Thanks for visiting!
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%201%20min-blue?style=flat)
-
 **I'm a Night 🦉** 
 
-```text
-🌞 Morning                1605 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-🌆 Daytime                15216 commits       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-🌃 Evening                34028 commits       █████████████░░░░░░░░░░░░   53.61 % 
-🌙 Night                  12619 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-```
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1605 commits</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="9" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">2.53%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">15216 commits</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="86" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">23.97%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">34028 commits</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="193" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">53.61%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">12619 commits</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="72" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">19.88%</text></svg>
 📅 **I'm Most Productive on Saturday** 
 
-```text
-Monday                   7800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Tuesday                  9054 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Wednesday                8988 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Thursday                 8310 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Friday                   7455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Saturday                 12245 commits       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Sunday                   9616 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-```
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">7800 commits</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="44" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">12.29%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">9054 commits</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="51" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">14.27%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">8988 commits</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="51" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">14.16%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">8310 commits</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="47" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">13.09%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">7455 commits</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="42" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">11.75%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">12245 commits</text><rect x="280" y="126" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="126" width="69" height="8" rx="0" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">19.29%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">9616 commits</text><rect x="280" y="150" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="150" width="55" height="8" rx="0" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">15.15%</text></svg>
 
 
 📊 **This Week I Spent My Time On** 
 
-```text
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JSON                     16 mins             █████████████░░░░░░░░░░░░   52.85 % 
-HTML                     12 mins             ██████████░░░░░░░░░░░░░░░   40.10 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="190" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">52.85%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">HTML</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">12 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="144" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">40.10%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">XML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1 min</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="17" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">4.84%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">CSV</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="8" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">2.18%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Bash</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="0" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">0.04%</text></svg>
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in PHP** 
 
-```text
-PHP                      7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">PHP</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">7 repos</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="97" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">26.92%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">5 repos</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="69" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">19.23%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">HTML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">5 repos</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="69" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">19.23%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Go</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="14" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">3.85%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Blade</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="14" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">3.85%</text></svg>
 
 
 

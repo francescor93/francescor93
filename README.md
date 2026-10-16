@@ -40,8 +40,8 @@ Sunday                   9625 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-HTML                     2 mins              ███████████████████░░░░░░   77.65 % 
-CSV                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+HTML                     25 mins             ████████████████████████░   97.40 % 
+CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 **I Mostly Code in PHP** 

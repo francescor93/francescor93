@@ -18,7 +18,7 @@ Thanks for visiting!
 ```text
 🌞 Morning                1611 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 🌆 Daytime                15245 commits       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌃 Evening                34064 commits       █████████████░░░░░░░░░░░░   53.60 % 
+🌃 Evening                34067 commits       █████████████░░░░░░░░░░░░   53.60 % 
 🌙 Night                  12634 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -29,7 +29,7 @@ Tuesday                  9061 commits        ████░░░░░░░�
 Wednesday                9004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Thursday                 8319 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Friday                   7466 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Saturday                 12264 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Saturday                 12267 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 Sunday                   9625 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 
@@ -40,8 +40,11 @@ Sunday                   9625 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-HTML                     25 mins             ████████████████████████░   97.40 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+HTML                     38 mins             ███████████████████████░░   93.56 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in PHP** 

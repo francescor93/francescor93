@@ -40,8 +40,7 @@ Sunday                   9625 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      1 hr 8 mins         █████████████████████░░░░   83.65 % 
-Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 

@@ -18,7 +18,7 @@ Thanks for visiting!
 ```text
 🌞 Morning                1218 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 🌆 Daytime                11891 commits       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-🌃 Evening                25642 commits       █████████████░░░░░░░░░░░░   52.32 % 
+🌃 Evening                25646 commits       █████████████░░░░░░░░░░░░   52.32 % 
 🌙 Night                  10259 commits       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -27,8 +27,8 @@ Thanks for visiting!
 Monday                   5481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 Tuesday                  6997 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Wednesday                6905 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 6487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Friday                   5775 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Thursday                 6488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   5778 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Saturday                 9660 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 Sunday                   7705 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
@@ -40,11 +40,11 @@ Sunday                   7705 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-XML                      53 mins             ████████████░░░░░░░░░░░░░   48.54 % 
-JavaScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+TypeScript               1 hr                █████████░░░░░░░░░░░░░░░░   36.35 % 
+XML                      57 mins             █████████░░░░░░░░░░░░░░░░   34.59 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 **I Mostly Code in PHP** 

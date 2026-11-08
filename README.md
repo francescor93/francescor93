@@ -16,21 +16,21 @@ Thanks for visiting!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1426 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-🌆 Daytime                13387 commits       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-🌃 Evening                29696 commits       █████████████░░░░░░░░░░░░   53.32 % 
-🌙 Night                  11181 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+🌞 Morning                1273 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+🌆 Daytime                12324 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌃 Evening                26730 commits       █████████████░░░░░░░░░░░░   52.57 % 
+🌙 Night                  10523 commits       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   6155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Tuesday                  7961 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Wednesday                8043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Thursday                 7453 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   6550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 10918 commits       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Sunday                   8610 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Monday                   5694 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Tuesday                  7273 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Wednesday                7182 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 6743 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Friday                   5996 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Saturday                 9982 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Sunday                   7980 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 ```
 
 
@@ -40,11 +40,11 @@ Sunday                   8610 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               8 hrs 29 mins       ██████████████████░░░░░░░   70.75 % 
-Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-HTML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+TypeScript               8 hrs 13 mins       ██████████████████░░░░░░░   72.03 % 
+Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+HTML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 
 **I Mostly Code in PHP** 

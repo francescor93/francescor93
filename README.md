@@ -13,6 +13,40 @@ Below are some stats for you curious guys; also check out [my website](https://w
 Thanks for visiting!
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1477 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+🌆 Daytime                14260 commits       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+🌃 Evening                31278 commits       █████████████░░░░░░░░░░░░   53.03 % 
+🌙 Night                  11972 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   7347 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Tuesday                  8415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Wednesday                8287 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Thursday                 7670 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Friday                   6957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Saturday                 11255 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Sunday                   9056 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+TypeScript               2 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.67 % 
+XML                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text

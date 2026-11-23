@@ -17,8 +17,8 @@ Thanks for visiting!
 
 ```text
 🌞 Morning                1482 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-🌆 Daytime                14309 commits       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-🌃 Evening                31335 commits       █████████████░░░░░░░░░░░░   53.00 % 
+🌆 Daytime                14318 commits       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+🌃 Evening                31335 commits       █████████████░░░░░░░░░░░░   52.99 % 
 🌙 Night                  11999 commits       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -27,10 +27,10 @@ Thanks for visiting!
 Monday                   7368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Tuesday                  8427 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 Wednesday                8307 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Thursday                 7684 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 7684 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 Friday                   6975 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Saturday                 11286 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Sunday                   9078 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Sunday                   9087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 ```
 
 
@@ -40,11 +40,11 @@ Sunday                   9078 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               4 hrs 24 mins       ███████████████████░░░░░░   75.17 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TypeScript               6 hrs 24 mins       █████████████████████░░░░   82.96 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 **I Mostly Code in PHP** 
